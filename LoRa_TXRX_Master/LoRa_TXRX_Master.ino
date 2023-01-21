@@ -14,8 +14,8 @@ void setup() {
    tft.setRotation(0);
    tft.fillScreen(WROVER_BLACK);
    tft.setCursor(0, 0);
-   tft.setTextColor(WROVER_YELLOW);  tft.setTextSize(2);
-   tft.println("LoRa Trasmitter!");
+   tft.setTextColor(WROVER_YELLOW);  tft.setTextSize(1);
+   tft.println("..........LoRa Trasmitter..........");
 
 }
 
